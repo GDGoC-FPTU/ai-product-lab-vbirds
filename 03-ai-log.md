@@ -1,3 +1,9 @@
+# Thông tin cá nhân
+
+- Họ và tên: Mai Ngọc Duy
+- MSSV: 2A202600736
+- Nhóm: Vbirds
+
 # Nhật ký chiêm nghiệm về việc tương tác với AI trong buổi học
 
 Trong suốt buổi học, em đã sử dụng các công cụ AI như ChatGPT, Gemini và Claude như một **trợ lý đồng hành tư duy** hơn là một công cụ thay thế hoàn toàn cho quá trình suy nghĩ của mình. Qua quá trình làm việc, em nhận ra AI có thể hỗ trợ rất tốt trong việc mở rộng ý tưởng, gợi ý hướng triển khai và kiểm tra lại lập luận, nhưng kết quả của AI vẫn cần được con người đánh giá, chỉnh sửa và đặt giới hạn rõ ràng.

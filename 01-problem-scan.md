@@ -1,5 +1,9 @@
 # Lab 02 — Worksheet: AI Product Scoping (Vin Smart Future)
+## Thông tin cá nhân
 
+- Họ và tên: Mai Ngọc Duy
+- MSSV: 2A202600736
+- Nhóm: Vbirds
 ---
 
 ## 🏛️ 1. Bối cảnh thực tế: Vin Smart Future (Vingroup)
