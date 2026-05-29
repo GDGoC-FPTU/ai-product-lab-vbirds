@@ -128,7 +128,7 @@ Báo cáo phân tích sâu dự án AI mà cả nhóm đã chọn thống nhất
     *   **Future-State Flow & AI Fit:** Vẽ quy trình tương lai bằng text-diagram hoặc mô tả bước, phân loại mức độ ứng dụng AI (Rule, LLM Feature, Agentic Loop), xác lập rõ bước có sự phê duyệt của con người (Human-in-the-loop) và phương án dự phòng khi hệ thống AI gặp lỗi (Fallback).
     *   **Evaluate:** Đánh giá độ sẵn sàng qua bảng Checklist, đưa ra quyết định cuối cùng (GO / NOT YET / NO-GO) kèm theo luận điểm kỹ thuật và ước lượng chi phí chặt chẽ.
 
-### 🖼️ 3. File `04-workflow-diagram.png` (hoặc `.pdf`) (Bài nhóm - 20 điểm)
+### 🖼️ 3. File `04-workflow-diagram.png` (hoặc `.pdf`) (Bài nhóm - 20 điểm)S
 Sơ đồ trực quan hóa quy trình vận hành hiện tại trước khi có AI.
 *   **Cách làm:** Cả nhóm cùng vẽ sơ đồ quy trình hiện tại (Current-State Workflow) lên bảng trắng hoặc giấy A3 trong **Phase 3.1**.
 *   **Yêu cầu nội dung:**
